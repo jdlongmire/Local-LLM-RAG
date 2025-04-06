@@ -1,4 +1,3 @@
-Here’s a polished README file in Markdown for your GitHub repo, formatted with some cool styling to impress your tech buddies. It captures the full system architecture, setup instructions, and our journey’s refinements—ready to share!
 markdown
 # 🚀 Local LLM with RAG & Web UI
 
